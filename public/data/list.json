@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes"
+    },
+    {
+        "id": 2,
+        "title": "Moby Dick",
+        "author": "Herman Melville"
+    },
+    {
+        "id": 3,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky"
+    },
+    {
+        "id": 4,
+        "title": "Nineteen Eighty Four",
+        "author": "George Orwell"
+    },
+    {
+        "id": 5,
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift"
+    },
+    {
+        "id": 6,
+        "title": "Catch-22",
+        "author": "Joseph Heller"
+    },
+    {
+        "id": 7,
+        "title": "Candide",
+        "author": "Voltaire"
+    },
+    {
+        "id": 8,
+        "title": "As I Lay Dying",
+        "author": "William Faulkner"
+    },
+    {
+        "id": 9,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "id": 10,
+        "title": "Dead Souls",
+        "author": "Nikolai Gogol"
+    }
+]
